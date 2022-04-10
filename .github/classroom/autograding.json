@@ -25,7 +25,7 @@
       "setup": "",
       "run": "python3 main.py",
       "input": "4\r\n3.09\r\n2 2\r\n3.09\r\n3.09",
-      "output": "94.0",
+      "output": "93.99",
       "comparison": "included",
       "timeout": 10,
       "points": 3
